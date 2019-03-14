@@ -1,5 +1,3 @@
-server:
-  port: 9007
 
 variable:
-   test :  config-clien-test
+   test :  config-clien-test version 1
