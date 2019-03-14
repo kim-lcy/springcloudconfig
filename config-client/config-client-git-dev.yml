@@ -3,3 +3,4 @@ server:
 
 variable:
    test :  test version 2
+test : test
