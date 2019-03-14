@@ -1,0 +1,5 @@
+server:
+  port: 9006
+
+variable:
+   test :  config-clien-test
