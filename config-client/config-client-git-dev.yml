@@ -2,5 +2,5 @@ server:
   port: 8003
 
 variable:
-   test :  test version 2
-test : test
+   test :  test version 3
+test : test---new
